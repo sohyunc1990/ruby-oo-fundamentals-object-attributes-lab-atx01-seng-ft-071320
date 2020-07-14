@@ -13,5 +13,4 @@ class Person
     @job = person_job
   end
 
-
 end
